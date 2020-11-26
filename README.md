@@ -12,3 +12,4 @@
 
 **DAY 6** => _Functions, Code blocks & While loops_
 
+**DAY 7** => _Hangman Project_
