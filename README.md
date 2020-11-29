@@ -18,6 +18,8 @@
 
 **DAY 9** => _Dictionaries and Nesting_
 
+**DAY 10** => _Functions with Outputs_
+
 
 
 
