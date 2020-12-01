@@ -1,5 +1,4 @@
 from random import randint
-
 #global constants
 EASY_LEVEL_TURNS = 10
 HARD_LEVEL_TURNS = 5
@@ -24,6 +23,7 @@ def set_difficulty():
         return HARD_LEVEL_TURNS
 
 def game():
+
     #choosing a random number between 1 to 100
     print("Welcome to the Number Guessing Game!")
     print("I'm thinking of a number betwee 1 to 100.")
@@ -43,5 +43,5 @@ def game():
             return #will exit the function
         elif guess != answer:
             print("Guess again.")
-            
+
 game()
