@@ -22,7 +22,7 @@
 
 **DAY 11** => _Blackjack Capstone Project_
 
-
+**DAY 12** => _Scope: Local vs Global_
 
 
 
