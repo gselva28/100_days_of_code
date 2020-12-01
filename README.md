@@ -24,6 +24,8 @@
 
 **DAY 12** => _Scope: Local vs Global_
 
+**DAY 13** => _Debugging_
+
 
 
 
