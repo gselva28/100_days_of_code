@@ -3,6 +3,7 @@
 import random
 import os
 clear = lambda: os.system('cls')
+
 from game_art import logo, vs
 from game_data import data
 
