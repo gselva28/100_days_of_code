@@ -28,7 +28,7 @@
 
 **DAY 14** => _Higher Lower Game Project_
 
-**DAY 15** => _Coffee Making Machine Program_
+**DAY 15** => _Coffee Making Machine Project_
 
 **DAY 16** => _Object Oriented Programming_
 
