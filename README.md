@@ -34,6 +34,7 @@
 
 **DAY 17** => _Quiz Project and Benefits of OOPS_
 
+**DAY 18** => _Turtle & Graphical User Interface_
 
 
 
