@@ -14,7 +14,7 @@
 
 **DAY 7** => _Hangman Project_
 
-**DAY 8** => _Functions with Inputs & Caesar Cipher (Message Encreption and Decreption)_
+**DAY 8** => _Functions with Inputs & Caesar Cipher (Message Encryption and Decryption)_
 
 **DAY 9** => _Dictionaries and Nesting_
 
