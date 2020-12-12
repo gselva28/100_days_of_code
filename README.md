@@ -36,6 +36,8 @@
 
 **DAY 18** => _Turtle & Graphical User Interface_
 
+**DAY 19** => _Event Listeners, State and Multiple Instances_
+
 
 
 
