@@ -40,7 +40,7 @@
 
 **DAY 20** => _Turtle Game - Part I_
 
-**DAY 21** => _Turtle Game - Part II_
+**DAY 21** => _Inheritance & Turtle Game - Part II_
 
 
 
