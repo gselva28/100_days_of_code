@@ -14,7 +14,7 @@
 
 **DAY 7** => _Hangman Project_
 
-**DAY 8** => _Functions with Inputs & Caesar Cipher (Message Encreption and Decreption)_
+**DAY 8** => _Functions with Inputs & Caesar Cipher (Message Encryption and Decryption)_
 
 **DAY 9** => _Dictionaries and Nesting_
 
@@ -30,8 +30,15 @@
 
 **DAY 15** => _Coffee Making Machine Project_
 
+**DAY 16** => _Object Oriented Programming_
 
+**DAY 17** => _Quiz Project and Benefits of OOPS_
 
+**DAY 18** => _Turtle & Graphical User Interface_
+
+**DAY 19** => _Event Listeners, State and Multiple Instances_
+
+**DAY 20** => _Turtle Game - Part 1_
 
 
 
