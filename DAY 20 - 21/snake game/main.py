@@ -1,8 +1,8 @@
-from turtle import Screen
+import turtle as t
 from snake import Snake
 import time
 
-screen = Screen()
+screen = t.Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor("black")
 screen.title("Arcade Snake Game")
@@ -15,7 +15,6 @@ screen.onkey(snake.up, "Up")
 screen.onkey(snake.down, "Down")
 screen.onkey(snake.left, "Left")
 screen.onkey(snake.right, "Right")
-
 
 game_on = True
 while game_on:
