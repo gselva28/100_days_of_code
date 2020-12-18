@@ -38,7 +38,7 @@
 
 **DAY 19** => _Event Listeners, State and Multiple Instances_
 
-**DAY 20** => _Turtle Game - PartI_
+**DAY 20** => _Turtle Game - Part I_
 
 
 
